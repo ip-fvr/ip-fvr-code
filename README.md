@@ -24,19 +24,23 @@ This repository is the official implementation of Show and Polish: Reference-Gui
 <table style="width:100%">
   <tr>
     <td style="width:45%">
-      <video controls  autoplay style="width:100%">
-        <source src="assets/align.mp4" type="video/mp4">
-        Your browser does not support the video tag.
+      <video src="https://github.com/user-attachments/assets/c189d193-956e-4566-af7f-20c9f48a8859" controls  autoplay style="width:100%">
       </video>
     </td>
     <td style="width:45%">
-      <video controls autoplay style="width:100%">
-        <source src="assets/misalign.mp4" type="video/mp4">
-        Your browser does not support the video tag.
+      <video src="https://github.com/user-attachments/assets/81a196ff-b4b7-4f39-a73c-fcbaaebabdce" controls autoplay style="width:100%">
       </video>
     </td>
   </tr>
 </table>
+
+
+
+
+
+
+
+
 
 
 <table style="width:100%">
